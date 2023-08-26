@@ -7,7 +7,9 @@ spiral_turtle = turtle.Turtle()
 spiral_turtle.speed(0)  # Fastest speed
 spiral_turtle.color("white")
 spiral_turtle.width(2)
-
+spiral_turtle.speed(0)  # Fastest speed
+spiral_turtle.color("white")
+spiral_turtle.width(2)
 start_radius = 1  # Starting radius
 angle = 91  # Angle between each line segment
 multiplier = 1.02  
